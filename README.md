@@ -1,6 +1,6 @@
 # Nedir?
 
-> Bu repo Türkiye Cumguriyeti Merkez Bankası'ndaki veri çekmek için [bu adresteki python](https://pypi.org/project/evds/) modülünden esinlenilerek oluşturulmuştur. Python modülündeki tüm işlevler tamamlanmamış olup, şu anki haliyle sadece son bir günlük 'USD' ve 'EUR' bilgilerini döndürmektedir.
+> Bu repo Türkiye Cumguriyeti Merkez Bankası'ndan veri çekmek için [bu adresteki python](https://pypi.org/project/evds/) modülünden esinlenilerek oluşturulmuştur. Python modülündeki tüm işlevler tamamlanmamış olup, şu anki haliyle sadece son bir günlük 'USD' ve 'EUR' bilgilerini döndürmektedir.
 
 ## Nasıl Kullanılır?
 
